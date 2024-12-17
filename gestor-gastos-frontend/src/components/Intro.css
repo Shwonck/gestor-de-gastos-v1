@@ -1,0 +1,27 @@
+/* src/components/Intro.css */
+.intro-container {
+    text-align: center;
+    padding: 50px;
+    background-color: #f1f8ff; /* Um fundo claro */
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    margin-top: 50px;
+}
+
+.intro-title {
+    font-size: 36px;
+    color: #007bff;
+    margin-bottom: 20px;
+}
+
+.intro-description {
+    font-size: 18px;
+    color: #555;
+    margin-bottom: 20px;
+}
+
+.intro-call-to-action {
+    font-size: 20px;
+    color: #007bff;
+    font-weight: bold;
+}
